@@ -120,13 +120,13 @@ Développez une application Angular connectée à un backend de votre choix (Nes
 - Git commits et messages
 - Gestion des erreurs
 
-## 📋 Instructions de Soumission
+📋 Instructions de Soumission
+  - Clone le projet depuis le repo GitHub du challenge
+  - Réalise le challenge directement dans ton propre repo
+  - Colle le lien de ton repo sur AngularOnly une fois terminé
 
-1. Forkez ce repository
-2. Créez une branche pour votre solution
-3. Commitez régulièrement avec des messages clairs
-4. Documentez vos choix techniques dans le README
-5. Créez une Pull Request une fois terminé
+👉 Pas besoin de faire une PR, tu gardes ton espace de travail propre.
+On veut juste voir comment tu codes en conditions réelles.
 
 ## ⏱️ Temps Alloué
 
